@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MY.MS.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MY.MS.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MY.MS.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MY.MS.Entities/1.0.0": {
+      "type": "project",
+      "path": "../MY.MS.Entities/MY.MS.Entities.csproj",
+      "msbuildProject": "../MY.MS.Entities/MY.MS.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MY.MS.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\meteh\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.DataLibrary\\MY.MS.DataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.DataLibrary\\MY.MS.DataLibrary.csproj",
       "projectName": "MY.MS.DataLibrary",
-      "projectPath": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.DataLibrary\\MY.MS.DataLibrary.csproj",
+      "projectPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.DataLibrary\\MY.MS.DataLibrary.csproj",
       "packagesPath": "C:\\Users\\meteh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.DataLibrary\\obj\\",
+      "outputPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.DataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -41,7 +60,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj": {
+              "projectPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

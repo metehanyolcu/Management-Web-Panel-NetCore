@@ -1,11 +1,66 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MY.MS.BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MY.MS.DataLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MY.MS.BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MY.MS.BusinessLayer.dll": {}
+        }
+      },
+      "MY.MS.DataLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MY.MS.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MY.MS.DataLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MY.MS.DataLibrary.dll": {}
+        }
+      },
+      "MY.MS.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MY.MS.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MY.MS.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MY.MS.BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../MY.MS.BusinessLayer/MY.MS.BusinessLayer.csproj",
+      "msbuildProject": "../MY.MS.BusinessLayer/MY.MS.BusinessLayer.csproj"
+    },
+    "MY.MS.DataLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MY.MS.DataLibrary/MY.MS.DataLibrary.csproj",
+      "msbuildProject": "../MY.MS.DataLibrary/MY.MS.DataLibrary.csproj"
+    },
+    "MY.MS.Entities/1.0.0": {
+      "type": "project",
+      "path": "../MY.MS.Entities/MY.MS.Entities.csproj",
+      "msbuildProject": "../MY.MS.Entities/MY.MS.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MY.MS.BusinessLayer >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\meteh\\.nuget\\packages\\": {},
@@ -15,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Project\\MY.MS.Project.csproj",
+      "projectUniqueName": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Project\\MY.MS.Project.csproj",
       "projectName": "MY.MS.Project",
-      "projectPath": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Project\\MY.MS.Project.csproj",
+      "projectPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Project\\MY.MS.Project.csproj",
       "packagesPath": "C:\\Users\\meteh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Project\\obj\\",
+      "outputPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -41,7 +96,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.BusinessLayer\\MY.MS.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.BusinessLayer\\MY.MS.BusinessLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

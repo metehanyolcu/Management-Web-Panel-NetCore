@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj": {}
+    "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj": {
+    "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj",
         "projectName": "MY.MS.Entities",
-        "projectPath": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj",
+        "projectPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj",
         "packagesPath": "C:\\Users\\meteh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meteh\\source\\repos\\ManagementSystem\\MY.MS.Entities\\obj\\",
+        "outputPath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
