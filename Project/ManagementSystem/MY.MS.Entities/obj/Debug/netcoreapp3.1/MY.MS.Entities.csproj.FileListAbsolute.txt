@@ -10,3 +10,16 @@ C:\Users\meteh\Desktop\Projects\Management-Web-Panel-NetCore\Project\ManagementS
 C:\Users\meteh\Desktop\Projects\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.dll
 C:\Users\meteh\Desktop\Projects\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.pdb
 C:\Users\meteh\Desktop\Projects\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.genruntimeconfig.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\bin\Debug\netcoreapp3.1\MY.MS.Entities.deps.json
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\bin\Debug\netcoreapp3.1\MY.MS.Entities.runtimeconfig.json
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\bin\Debug\netcoreapp3.1\MY.MS.Entities.runtimeconfig.dev.json
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\bin\Debug\netcoreapp3.1\MY.MS.Entities.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\bin\Debug\netcoreapp3.1\MY.MS.Entities.pdb
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.csproj.AssemblyReference.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.AssemblyInfoInputs.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.AssemblyInfo.cs
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.pdb
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Entities\obj\Debug\netcoreapp3.1\MY.MS.Entities.genruntimeconfig.cache

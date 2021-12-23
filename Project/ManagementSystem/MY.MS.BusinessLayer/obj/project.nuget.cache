@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ulVIcfdyqSNVlrb3jzTTgIF7urqb/hbJqdz42WBvoHFbZ18Agw0KMqZg70/K377Ql1ZO/zfh23k6a06w8KXxw==",
+  "dgSpecHash": "Z30McwiLHI0D46748O3HVBYbfkX75iaCWxyM+mUVB63Jws4rjyCj25XXlwqJ91sHG68xeoz4A9I1O9v8B7o89A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\meteh\\Desktop\\Projects\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.BusinessLayer\\MY.MS.BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\meteh\\Documents\\GitHub\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.BusinessLayer\\MY.MS.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meteh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\meteh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -90,7 +90,10 @@
     "C:\\Users\\meteh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
