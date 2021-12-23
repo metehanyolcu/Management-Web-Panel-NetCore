@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/dgo0F6LeloqBl+GhCi1fj03W/WsMw9pRnp7uM01qWXae8zMZwl/M93pLfomQJEEt9/ITCm1m3Ugt1LlB5hmLg==",
+  "dgSpecHash": "QKL3W02T1bqhP0BK3vTfYB2ucJUx1+c4pP6J+qeVU0kRk7LJNSarYXqP0b6Ld0lze8RjM/GnW12oFfIfKSoeAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\meteh\\Documents\\GitHub\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Entities\\MY.MS.Entities.csproj",
   "expectedPackageFiles": [
@@ -90,10 +90,7 @@
     "C:\\Users\\meteh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\meteh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\meteh\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

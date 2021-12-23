@@ -1,0 +1,17 @@
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\MY.MS.DataLibrary.deps.json
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\MY.MS.DataLibrary.runtimeconfig.json
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\MY.MS.DataLibrary.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\ref\MY.MS.DataLibrary.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\MY.MS.DataLibrary.pdb
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\MY.MS.Entities.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\bin\Debug\net6.0\MY.MS.Entities.pdb
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.csproj.AssemblyReference.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.AssemblyInfoInputs.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.AssemblyInfo.cs
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.csproj.CopyComplete
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\ref\MY.MS.DataLibrary.dll
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.pdb
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.DataLibrary\obj\Debug\net6.0\MY.MS.DataLibrary.genruntimeconfig.cache
