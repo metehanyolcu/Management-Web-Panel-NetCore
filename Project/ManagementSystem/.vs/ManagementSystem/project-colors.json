@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a416e6ee-01e1-40f5-9fa4-335715192d00": {
+      "ProjectGuid": "a416e6ee-01e1-40f5-9fa4-335715192d00",
+      "DisplayName": "MY.MS.DataLibrary",
+      "ColorIndex": 0
+    },
+    "67ae83e1-79a9-4ee2-8cca-901c3d1d4552": {
+      "ProjectGuid": "67ae83e1-79a9-4ee2-8cca-901c3d1d4552",
+      "DisplayName": "MY.MS.BusinessLayer",
+      "ColorIndex": 1
+    },
+    "d70d4b59-0ed3-4b64-9bf3-5d9411afc0ea": {
+      "ProjectGuid": "d70d4b59-0ed3-4b64-9bf3-5d9411afc0ea",
+      "DisplayName": "MY.MS.Entities",
+      "ColorIndex": 2
+    },
+    "c4f35ac9-b6d4-410d-be78-548bbd5e0960": {
+      "ProjectGuid": "c4f35ac9-b6d4-410d-be78-548bbd5e0960",
+      "DisplayName": "MY.MS.Project",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
