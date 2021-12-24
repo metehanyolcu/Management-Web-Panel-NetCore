@@ -20,7 +20,7 @@ namespace MY.MS.DataLibrary.RepisotoryDP.Concrete
             };
         }
 
-        public Categories GetT()
+        public Categories GetT(int id)
         {
             using (var cat = new DataContext())
             {
@@ -63,7 +63,7 @@ namespace MY.MS.DataLibrary.RepisotoryDP.Concrete
         {
             using (var cat = new DataContext())
             {
-                cat.Entry<Categories>(t).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+              //  cat.Entry<Categories>(t).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 cat.Update(t);
                 cat.SaveChanges();
             }

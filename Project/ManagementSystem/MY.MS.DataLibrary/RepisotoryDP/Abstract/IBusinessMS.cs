@@ -15,6 +15,6 @@ namespace MY.MS.DataLibrary.RepisotoryDP.Abstract
         void Remove(T t);
         void Update(T t);
         void UpdateByID(int id);
-        T GetT();
+        T GetT(int id);
     }
 }
