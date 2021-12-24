@@ -24,7 +24,8 @@ namespace MY.MS.DataLibrary.RepisotoryDP.Concrete
         {
             using (var cat = new DataContext())
             {
-                return cat.Categories.Find(cat);
+                var ct =  cat.Categories.Find(id);
+                return ct;
             };
         }
 
