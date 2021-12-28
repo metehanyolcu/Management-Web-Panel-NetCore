@@ -1,8 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MY.MS.Entities.Concrete;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MY.MS.DataLibrary.EFCore.Context
 {

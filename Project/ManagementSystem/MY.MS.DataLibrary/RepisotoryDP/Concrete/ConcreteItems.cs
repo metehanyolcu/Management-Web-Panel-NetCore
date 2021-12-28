@@ -1,11 +1,8 @@
 ﻿using MY.MS.DataLibrary.EFCore.Context;
 using MY.MS.DataLibrary.RepisotoryDP.Abstract;
 using MY.MS.Entities.Concrete;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MY.MS.DataLibrary.RepisotoryDP.Concrete
 {
