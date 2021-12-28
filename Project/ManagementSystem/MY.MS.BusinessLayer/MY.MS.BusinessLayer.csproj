@@ -17,4 +17,8 @@
     <ProjectReference Include="..\MY.MS.DataLibrary\MY.MS.DataLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repisotory\Concrete\" />
+  </ItemGroup>
+
 </Project>
