@@ -20,7 +20,42 @@
       "ProjectGuid": "c4f35ac9-b6d4-410d-be78-548bbd5e0960",
       "DisplayName": "MY.MS.Project",
       "ColorIndex": 3
+    },
+    "b226b79b-02ee-406d-8c20-1926a59e2272": {
+      "ProjectGuid": "b226b79b-02ee-406d-8c20-1926a59e2272",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 4
+    },
+    "b82792a0-46a0-4955-9e1b-7c9fa03953a0": {
+      "ProjectGuid": "b82792a0-46a0-4955-9e1b-7c9fa03953a0",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 5
+    },
+    "3e115b53-734a-4162-9197-7039b7c5b56e": {
+      "ProjectGuid": "3e115b53-734a-4162-9197-7039b7c5b56e",
+      "DisplayName": "WebApplication3",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d7198f20-0d0a-4c5c-81fb-772dabdb2b16": {
+      "ProjectGuid": "d7198f20-0d0a-4c5c-81fb-772dabdb2b16",
+      "DisplayName": "MY.MS.Project2",
+      "ColorIndex": 7
+    },
+    "7fc353f4-9dab-476f-ba4c-f79f50d10d80": {
+      "ProjectGuid": "7fc353f4-9dab-476f-ba4c-f79f50d10d80",
+      "DisplayName": "MY.MS.Project3",
+      "ColorIndex": 8
+    },
+    "4e747401-f427-4584-8771-e75867fa568e": {
+      "ProjectGuid": "4e747401-f427-4584-8771-e75867fa568e",
+      "DisplayName": "WebApplication4",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 10
 }
