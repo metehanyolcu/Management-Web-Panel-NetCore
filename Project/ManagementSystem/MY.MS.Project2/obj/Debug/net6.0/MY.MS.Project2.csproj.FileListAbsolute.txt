@@ -4,8 +4,6 @@ C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementS
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.AssemblyInfo.cs
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.csproj.CoreCompileInputs.cache
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.RazorAssemblyInfo.cache
-C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.RazorAssemblyInfo.cs
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\bin\Debug\net6.0\appsettings.json
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\bin\Debug\net6.0\MY.MS.Project2.staticwebassets.runtime.json
@@ -22,3 +20,5 @@ C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementS
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\ref\MY.MS.Project2.dll
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.pdb
 C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.genruntimeconfig.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.RazorAssemblyInfo.cache
+C:\Users\meteh\Documents\GitHub\Management-Web-Panel-NetCore\Project\ManagementSystem\MY.MS.Project2\obj\Debug\net6.0\MY.MS.Project2.RazorAssemblyInfo.cs

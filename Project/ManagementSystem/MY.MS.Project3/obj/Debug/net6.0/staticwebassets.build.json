@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "71+U1mVFWsXEw9Rk3jWftz96unZ/ndvCYjj0WLrABGk=",
+  "Source": "MY.MS.Project3",
+  "BasePath": "_content/MY.MS.Project3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MY.MS.Project3\\wwwroot",
+      "Source": "MY.MS.Project3",
+      "ContentRoot": "C:\\Users\\meteh\\Documents\\GitHub\\Management-Web-Panel-NetCore\\Project\\ManagementSystem\\MY.MS.Project3\\wwwroot\\",
+      "BasePath": "_content/MY.MS.Project3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
