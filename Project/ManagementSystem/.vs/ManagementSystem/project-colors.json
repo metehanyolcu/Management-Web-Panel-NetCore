@@ -55,7 +55,12 @@
       "ProjectGuid": "4e747401-f427-4584-8771-e75867fa568e",
       "DisplayName": "WebApplication4",
       "ColorIndex": 9
+    },
+    "a57fed4d-ddcd-4743-91dc-43ddbf42a4ff": {
+      "ProjectGuid": "a57fed4d-ddcd-4743-91dc-43ddbf42a4ff",
+      "DisplayName": "MY.MS.WebProject",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }
